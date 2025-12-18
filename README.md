@@ -1,5 +1,7 @@
 # 🚀 Course Finder — React Mini Application
 
+Live Deploy URL: https://course-finder-react-mini-application.netlify.app/
+
 Web developer intern assignment - Marketing Mojito
 
 A **space / interstellar–themed Course Finder mini app** built with **React** as part of a **Web Developer Intern assignment**.
